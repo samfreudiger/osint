@@ -1,6 +1,7 @@
 # random osint resources
-todo:
-- sort by topic
+personal repository for osint resources
+
+(not yet sorted by topic)
 
 
 https://www.social-searcher.com/
@@ -14,3 +15,8 @@ https://www.digwebinterface.com
 https://buckets.grayhatwarfare.com
 
 https://osintcurio.us/
+
+https://github.com/willc/OSINT-flowcharts?files=1
+
+https://github.com/jivoi/awesome-osint
+
