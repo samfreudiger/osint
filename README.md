@@ -1,7 +1,6 @@
-# random osint resources
+# osint resources (unsorted)
 personal repository for osint resources
 
-(not yet sorted by topic)
 
 
 
