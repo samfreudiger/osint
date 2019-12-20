@@ -4,6 +4,9 @@ personal repository for osint resources
 (not yet sorted by topic)
 
 
+
+
+
 https://www.social-searcher.com/
 
 https://osintframework.com/
@@ -19,4 +22,8 @@ https://osintcurio.us/
 https://github.com/willc/OSINT-flowcharts?files=1
 
 https://github.com/jivoi/awesome-osint
+
+https://hunter.io
+
+https://spyse.com
 
