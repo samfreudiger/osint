@@ -30,3 +30,9 @@ https://ddosecrets.com/data
 
 https://github.com/BullsEye0/google_dork_list
 
+https://nerdydata.com/
+
+https://crt.sh
+
+
+
