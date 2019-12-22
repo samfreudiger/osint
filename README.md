@@ -38,6 +38,7 @@ https://medium.com/@somdevsangwan/deblurring-images-for-osint-part-2-ba564af8eb5
 
 http://www.withstand.ca/security/osint-resources/
 
+http://www.automatingosint.com/blog/
 
 
 
