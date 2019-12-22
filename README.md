@@ -40,6 +40,7 @@ http://www.withstand.ca/security/osint-resources/
 
 http://www.automatingosint.com/blog/
 
+https://medium.com/@Peter_UXer/osint-how-to-find-information-on-anyone-5029a3c7fd56
 
 
 
