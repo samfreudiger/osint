@@ -1,5 +1,5 @@
 # osint resources (unsorted)
-personal repository for osint resources
+personal repository of osint related stuff 
 
 <br><br><br>
 
