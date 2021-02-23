@@ -29,6 +29,7 @@ https://urlscan.io/ <br>
 https://fofa.so  <br>
 https://findsubdomains.com <br>
 https://dnsdumpster.com/ <br>
+http://www.spyify.com/ <br>
 
 __Custom Google Search engines:__ <br>
 https://cgs.the-eye.eu <br>
