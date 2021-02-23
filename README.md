@@ -61,3 +61,4 @@ https://osintcurio.us/2020/03/02/how-to-trace-social-media-users-across-multiple
 https://medium.com/@micallst/osint-and-the-new-perimeter-20d19361e18 <br>
 https://www.bellingcat.com/category/resources/ <br>
 https://www.ovrdrv.com/knowledge/social-media-map/ <br>
+https://delta.navisec.io/osint-for-pentesters-part-3-password-spraying-methodology/ <br>
