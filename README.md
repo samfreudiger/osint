@@ -28,8 +28,9 @@ https://www.onyphe.io/ <br>
 https://urlscan.io/ <br>
 https://fofa.so  <br>
 https://findsubdomains.com <br>
-https://dnsdumpster.com/ <br>
-http://www.spyify.com/ <br>
+https://dnsdumpster.com <br>
+http://www.spyify.com <br>
+https://www.osintcombine.com/tools  <br>
 
 __Custom Google Search engines:__ <br>
 https://cgs.the-eye.eu <br>
