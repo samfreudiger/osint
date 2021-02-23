@@ -30,6 +30,7 @@ https://fofa.so  <br>
 https://findsubdomains.com <br>
 https://dnsdumpster.com <br>
 http://www.spyify.com <br>
+https://www.domainiq.com/reverse_analytics <br>
 https://www.osintcombine.com/tools  <br>
 
 __Custom Google Search engines:__ <br>
