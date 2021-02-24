@@ -11,9 +11,9 @@ https://github.com/jivoi/awesome-osint <br>
 https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/ <br>
 
 __search tools:__ <br>
-https://www.social-searcher.com/ <br>
-https://www.digwebinterface.com/ <br>
-https://buckets.grayhatwarfare.com/ <br>
+https://www.social-searcher.com <br>
+https://www.digwebinterface.com <br>
+https://buckets.grayhatwarfare.com <br>
 https://hunter.io/ <br>
 https://spyse.com/ <br>
 https://github.com/BullsEye0/google_dork_list <br>
