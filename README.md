@@ -64,3 +64,5 @@ https://www.ovrdrv.com/knowledge/social-media-map/ <br>
 https://delta.navisec.io/osint-for-pentesters-part-1-passive-recon-and-asset-discovery/ <br>
 https://delta.navisec.io/osint-for-pentesters-part-2-linkedin-is-not-just-for-jobs/ <br>
 https://delta.navisec.io/osint-for-pentesters-part-3-password-spraying-methodology/ <br>
+https://github.com/NorthwaveSecurity/o365-collect <br>
+
